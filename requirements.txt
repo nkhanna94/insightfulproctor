@@ -1,0 +1,17 @@
+opencv-python==4.12.0.88
+numpy==2.1.3
+requests==2.32.4
+mediapipe==0.10.14
+ultralytics==8.3.170
+Pillow==11.3.0
+torch==2.7.1
+torchvision==0.22.1
+protobuf==4.25.8
+streamlit==1.47.1
+deepface==0.0.93
+tf_keras==2.19.0
+openai==0.28
+python-dotenv==1.1.1
+langchain==0.3.27
+pydantic==2.11.7
+fpdf2==2.8.4
